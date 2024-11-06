@@ -1,2 +1,2 @@
 # data_scraping
-Get data using Crawling techniques in Python.
+Get data using Scraping techniques in Python.
